@@ -14,7 +14,7 @@ Data Type: IQ recording (SDR capture)
 IQ Source
 
 The IQ recordings for this observation are available at:
-[PE0SAT UWE-4 IQ Data](iq_14011420_435599000_57600.raw.zip	)
+[PE0SAT UWE-4 IQ Data](iq_14011420_435599000_57600.raw.zip)
 
 Processing Chain
 IQ Data Input
